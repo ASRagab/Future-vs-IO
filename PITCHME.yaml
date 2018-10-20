@@ -13,37 +13,24 @@ published : true
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : simple
+theme: moon
 
 #
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override : template/css/PITCHME.css
-
-#
-# Logo Setting
-# https://gitpitch.com/docs/settings/logo
-#
-logo : template/img/logo.png
-logo-position : top-left
-
-#
-# Footnote Setting
-# Doc: https://gitpitch.com/docs/settings/footnote
-#
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+theme-override : assets/css/PITCHME.css
 
 #
 # Highlight (Code) Setting
 # Doc: https://gitpitch.com/docs/settings/highlight
 #
-highlight : atom-one-dark
+highlight : gruvbox-dark
 
 #
 # Layout Setting
 # Doc: https://gitpitch.com/docs/settings/layout
-#
+# 
 layout : center
 
 #
@@ -53,4 +40,3 @@ layout : center
 # https://gitpitch.com/docs/layout-features/snap-layout-slide-transitions
 #
 transition : none
-

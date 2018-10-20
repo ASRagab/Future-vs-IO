@@ -1,6 +1,6 @@
-# GitPitch - The Template
+# Future vs IO
 
-*THE FASTEST WAY FROM IDEA TO PRESENTATION*
+*Managing Effects in Your Applications*
 
-For details, see the complete template documentation [here](https://gitpitch.com/docs/the-template).
+[Presentation](https://gitpitch.com/ASRagab/Future-vs-IO/master#/)
 

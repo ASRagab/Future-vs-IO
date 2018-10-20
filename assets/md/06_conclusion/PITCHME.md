@@ -1,0 +1,25 @@
+@snap[north]
+@color[#eb4500](Leftover Topics)
+@snapend
+
+- Resource Management (File handles, JDBC Connections etc.)
+- Brackets 
+- Fibers
+- Refs
+- Fail and Retry Combinators
+
++++
+
+@snap[north]
+@color[#eb4500](Resources)
+@snapend
+
+##### Videos
+- [The Making of an IO - Daniel Spiewak](https://www.youtube.com/watch?v=g_jP47HFpWA&t=380s)
+- [The Design of the Scalaz 8 Effect System](https://www.youtube.com/watch?v=wi_vLNULh9Y)
+
+<br/>
+
+##### Blog Posts
+- [Monadic IO: Laziness Makes you Free](https://underscore.io/blog/posts/2015/04/28/monadic-io-laziness-makes-you-free.html)
+- [There can be only One...IO Monad](http://degoes.net/articles/only-one-io)
