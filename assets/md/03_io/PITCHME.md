@@ -3,34 +3,14 @@
 +++
 
 @snap[north]
-@color[#eb4500](Substitutional Impurity)
+@color[#eb4500](What we need)
 @snapend
 
-#### Why do we say that println is impure?
-
-```scala
-println("Hello World")
-// Any => Unit or ()
-```
-
-- It breaks substitution because I cannot replace () with println without changing the effect my program has
-
-+++
-
-@snap[north]
-@color[#eb4500](Purity is not enough)
-@snapend
-
-```scala
-object Pure {
-  def println(msg: String) = () => Predef.println(msg)
-}
-
-// Pure.println("IO is cool") is equivalent to () => Predef.println(msg)
-```
-
-- Thunks EVERYWHERE? |
-- At some point we've got to dispatch these actions |
+- Fine grained control over when and how to execute |
+  - Blocking |
+  - Concurrently |
+  - In Parallel |
+  
 - Also, we'd like some abstractions for different evaluation modes  |
   - Strict (Eager) |
   - Lazy (Synchronous) |
@@ -60,7 +40,7 @@ object Pure {
 - fs2 and Monix Task |
   - All the evaluation modes |
   - Performant |
-  - Tied to the larger framework |
+  - But Tied to the larger framework |
 
 - Scalaz 7 IO |
   - Doesn't really support asynchronous computation (i.e. callbacks) |

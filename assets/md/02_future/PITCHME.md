@@ -96,7 +96,7 @@ object Helper {
 @snapend
 
 - Handles certain exceptions differently from others | 
-  - TimeoutException i.e. ControlThrowable |
+  - Errors |
   - scala.runtime.NonLocalReturnControl[_] |
   - InterruptedException |
 

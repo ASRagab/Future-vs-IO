@@ -19,8 +19,6 @@
 
 ---?include=assets/md/04_zio/PITCHME.md
 
----?include=assets/md/05_inter-op/PITCHME.md
-
----?include=assets/md/06_conclusion/PITCHME.md
+---?include=assets/md/05_conclusion/PITCHME.md
 
 

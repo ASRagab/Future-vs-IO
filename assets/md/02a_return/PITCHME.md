@@ -1,5 +1,5 @@
 @snap[north]
-@color[#eb4500](Return: Off topic rant)
+@color[#eb4500](return: Off topic rant)
 @snapend
 
 [Don't Use Return in Scala](https://tpolecat.github.io/2014/05/09/return.html)

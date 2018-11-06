@@ -3,6 +3,8 @@
 @snapend
 
 - Resource Management (File handles, JDBC Connections etc.)
+- inter-op (Future, Task and Scalaz 7 `IO`)
+- Scheduling
 - Brackets 
 - Fibers
 - Refs

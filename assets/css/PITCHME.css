@@ -7,11 +7,11 @@
   }
 
 .reveal pre code {
-  font-size: 0.8em;
+  font-size: 0.75em;
 }
 
 .reveal li {
-  font-size: 60%
+  font-size: 70%
 }
 
 .title-box {
@@ -24,5 +24,5 @@
 .footnote {
   color: gray !important;
   font-style: italic !important;
-  font-size: .3em !important;
+  font-size: .4em !important;
 }
