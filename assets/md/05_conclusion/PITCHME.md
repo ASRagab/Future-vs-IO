@@ -26,3 +26,11 @@
 ##### Blog Posts
 - [Monadic IO: Laziness Makes you Free](https://underscore.io/blog/posts/2015/04/28/monadic-io-laziness-makes-you-free.html)
 - [There can be only One...IO Monad](http://degoes.net/articles/only-one-io)
+
++++
+
+![Twitter](assets/img/twitter-gray.png) [@PersistentCooki](https://twitter.com/PersistentCooki)
+![Github](assets/img/github.png)[ASRagab](https://github.com/ASRagab)
+
+
+##### Thank You!
