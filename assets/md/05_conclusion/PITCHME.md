@@ -19,6 +19,7 @@
 ##### Videos
 - [The Making of an IO - Daniel Spiewak](https://www.youtube.com/watch?v=g_jP47HFpWA&t=380s)
 - [The Design of the Scalaz 8 Effect System](https://www.youtube.com/watch?v=wi_vLNULh9Y)
+- [ZIO Schedule: Conquering Flakiness and Recurrence](https://www.youtube.com/watch?v=onQSHiafAY8)
 
 <br/>
 
