@@ -29,8 +29,8 @@
 
 +++
 
-![Twitter](assets/img/twitter-gray.png) [@PersistentCooki](https://twitter.com/PersistentCooki)
-![Github](assets/img/github.png)[ASRagab](https://github.com/ASRagab)
+![Twitter](img/twitter-gray.png)[@PersistentCooki](https://twitter.com/PersistentCooki)
+![Github](img/github.png)[ASRagab](https://github.com/ASRagab)
 
 
 ##### Thank You!
