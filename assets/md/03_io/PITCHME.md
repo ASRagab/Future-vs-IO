@@ -34,7 +34,7 @@
 +++
 
 @snap[north]
-@color[#eb4500](Not all IOs are built the same)
+@color[#eb4500](IOs of a different name aren't the same)
 @snapend
 
 - fs2 and Monix Task |
