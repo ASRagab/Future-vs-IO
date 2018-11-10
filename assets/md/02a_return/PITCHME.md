@@ -16,10 +16,8 @@ def wtf: Int = {
     val sumFold: List[Int] => Int = _.foldLeft(0)((n, m) => return n + m)
     sumFold(List(0,1,2)) + sumFold(List(3,4,5))
 }
-// scala> wtf
-// res1: Int = 0 ...ARE YOU NOT ENTERTAINED?
 ```
-@[13](when evaluated abandons current computation and returns from the `method`)
+@[13](res1: Int = 0 ...ARE YOU NOT ENTERTAINED?)
 
 +++
 @snap[north]
